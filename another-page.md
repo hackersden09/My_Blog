@@ -19,7 +19,7 @@ The main components of android architecture are following:-
     Platform Libraries
     Linux Kernel
 
-![Thumbnail of Hacker](Android-system-architecture)
+![Thumbnail of Hacker](./Android-system-architecture)
 
 # Application Layer
 
@@ -29,7 +29,7 @@ It is the part of “Application”, each “Application” developed to be inst
 
 It is part of the “System API” (Application Programming Interface) that the “Application” developed and installed can run. where the “Application Framework” section will facilitate developers. “Application” does not require complicated additional programming. but can be executed via “API” immediately, which can be divided as follows
 
-![Thumbnail of Hacker](Android-system-architecture2)
+![Thumbnail of Hacker](./Android-system-architecture2)
 
 
     Activities Manager “API” for managing “Activity” or per-user display.
