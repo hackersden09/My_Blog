@@ -31,32 +31,31 @@ It is part of the “System API” (Application Programming Interface) that the 
 
 ![Image 2:](https://raw.githubusercontent.com/hackersden09/My_Blog/main/Android-system-architecture2.jpg)
 
-
-    Activities Manager “API” for managing “Activity” or per-user display.
-    Content Provider “API” for managing access to data from other programs suitable for sharing data between “Application”
-    View System “APIs” for managing structures or user interface components (Controls) such as “button” “text box” or “web browser” in conjunction with Activities Manager.
-    Telephony Manager “API” manages access to phone data.
-    The Resource Manager “API” handles other non-programming information. (Programming) “strings” “layout” screen, which is located in the “res/” directory.
-    Location Manager “API” manages the geographic location of the “Android” device.
-    Notification Manager “API” deals with events that happen to the “Android” device and then displays the results to the user, such as “Miss call”.
+Activities Manager “API” for managing “Activity” or per-user display.
+Content Provider “API” for managing access to data from other programs suitable for sharing data between “Application”
+View System “APIs” for managing structures or user interface components (Controls) such as “button” “text box” or “web browser” in conjunction with Activities Manager.
+Telephony Manager “API” manages access to phone data.
+The Resource Manager “API” handles other non-programming information. (Programming) “strings” “layout” screen, which is located in the “res/” directory.
+Location Manager “API” manages the geographic location of the “Android” device.
+Notification Manager “API” deals with events that happen to the “Android” device and then displays the results to the user, such as “Miss call”.
 
 ### Libraries Layer
 It is part of the “C” and “C++” libraries at the “low-level process” level, for example: 
 
-    Surface Manager is a library for drawing screens. or display
-    The Media Framework is a multimedia library for images, video, and audio.
-    SQLite is a small library for working with “SQLite” data. We can store various information of “Application” in this database.
-    Open GL | ES is a library for 2 or 3D images.
-    FreeType is a library for rendering both “Bitmap” and “Vector” images.
-    WebKit is a library for displaying web browsers. You can learn more at https://developer.android.com/reference/android/webkit/package-summary.html
-    libc is a library of the "C" language.
+Surface Manager is a library for drawing screens. or display
+The Media Framework is a multimedia library for images, video, and audio.
+SQLite is a small library for working with “SQLite” data. We can store various information of “Application” in this database.
+Open GL | ES is a library for 2 or 3D images.
+FreeType is a library for rendering both “Bitmap” and “Vector” images.
+WebKit is a library for displaying web browsers. You can learn more at https://developer.android.com/reference/android/webkit/package-summary.html
+libc is a library of the "C" language.
 
 ### Android Run-times
 
 It is part of a library consisting of two parts managed by the “Android OS” as follows:
 
-    Core Java Libraries are command compilation libraries. written in the language “Java”
-    Dalvik Virtual Machine is a library used to process ".dex" files. This file is a program that we wrote to install on "Android". "compile" is from ".class". The ".dex" file is small.
+Core Java Libraries are command compilation libraries. written in the language “Java”
+Dalvik Virtual Machine is a library used to process ".dex" files. This file is a program that we wrote to install on "Android". "compile" is from ".class". The ".dex" file is small.
 
 
 ### Linux Kernel Layer
