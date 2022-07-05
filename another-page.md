@@ -85,7 +85,7 @@ root@android:/data/data # ls -an
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-![Image 1:]()
+![Image 3:](https://raw.githubusercontent.com/hackersden09/My_Blog/main/uid-01.png)
 
 _yay_
 
