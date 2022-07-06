@@ -62,6 +62,8 @@ Dalvik Virtual Machine is a library used to process ".dex" files. This file is a
 
 This layer will work with all the “Layers” above. To manage various “hardware” or “device drivers” including memory, processor and “power”, “Android” uses “version” 2.6 of the Linux operating system.
 
+* * *
+
 ## How to understand Android UID
 
 
