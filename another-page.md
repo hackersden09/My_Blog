@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# How to understand the Android Architecture
+# Understand the Architecture of Android 
 
 
 ### Android Architecture
