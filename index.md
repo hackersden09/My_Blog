@@ -19,6 +19,8 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 * [Understand the Architecture of Android ( Android )](./Understand_the_Architecture_of_Android.html)
 
+* [Genymotion Device Setup ( Android )](./Genymotion_device_setup.html)
+
 
 # Header 1
 
