@@ -17,8 +17,7 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 * [Getting Started With the Basics of iOS Penetration Testing ( IOS )](https://payatu.com/blog/kapil.gurav/ios-penetration-testing)
 
-* [Understand the Architecture of Android ( Android )](https://hackersden09.github.io/My_Blog/another-page.html)
-
+* [Understand the Architecture of Android ( Android )](./Understand_the_Architecture_of_Android.html)
 
 
 # Header 1
