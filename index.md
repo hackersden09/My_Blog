@@ -8,12 +8,15 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 # Hey Infosec focks
 
+ I love to find 🔍 security issues in web applications, API, Android, IOS, Hardware, Firmware 🕸️ and contribute to the infosec community in any way I can.
+
 ### 👨🏻‍💻 &nbsp;About Me
 ![Image 1:](https://raw.githubusercontent.com/hackersden09/My_Blog/main/BlackGreen.gif)
 
-### :closed_book: Write-ups
+### 📕 &nbsp;Write-ups
 
 * [Getting Started With the Basics of iOS Penetration Testing ( IOS )](https://payatu.com/blog/kapil.gurav/ios-penetration-testing)
+
 
 
 # Header 1
