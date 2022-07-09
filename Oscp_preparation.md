@@ -42,7 +42,7 @@ I found this blog helpful to understand active directory
 
 [IppSec - Search](https://ippsec.rocks/?#)
 
-You can do this stage after completing course material but you will loose your lab time. Better you start it before lab or after completing your lab. 
+> You can do this stage after completing course material but you will loose your lab time. Better you start it before lab or after completing your lab. 
 
 
 - [TJ-Null Linux ](https://www.notion.so/ab6e8736a6844bdb9f719a4300151e60)
@@ -53,7 +53,7 @@ You can do this stage after completing course material but you will loose your l
 
 If you think machines from hack the box are difficult to crack, you can start with virtual hacking labs. They have great lab to start with.  As offsec has decided to reduce bof marks to 10 I have not included separate tracker for that. You can use tryhackme room if you feel **unprepared.** 
 
-[TryHackMe | Buffer Overflow Prep](https://tryhackme.com/room/bufferoverflowprep)
+- [TryHackMe Buffer Overflow Prep](https://tryhackme.com/room/bufferoverflowprep)
 
 ------
 ------
@@ -73,7 +73,7 @@ If you have done 50+ boxes from htb and 50+ boxes from offsec lab you can skip t
 
 ## ◎ Stage 4 Exam
 
-[OSCP Exam Notes - <EXAM_DATE>](https://www.notion.so/OSCP-Exam-Notes-EXAM_DATE-c660e3b352aa4db5a450e66476fcf13b) 
+- [OSCP Exam Notes -](https://www.notion.so/OSCP-Exam-Notes-EXAM_DATE-c660e3b352aa4db5a450e66476fcf13b) 
 
 ### [Other resources I used ](https://www.notion.so/Other-resources-I-used-7fd0affac1204b648c2aea6fa39b9da6)
 
@@ -88,8 +88,6 @@ If you have done 50+ boxes from htb and 50+ boxes from offsec lab you can skip t
 [TJ- PG Windows](https://www.notion.so/6532fe7c0cf2406f8fac8e5ea6f7b35d)
 
 [Tj Null Windows](https://www.notion.so/469d526daba0447cbe82481ebe3c6f2b)
-
-[OSCP Exam Notes - <EXAM_DATE>](https://www.notion.so/OSCP-Exam-Notes-EXAM_DATE-c660e3b352aa4db5a450e66476fcf13b)
 
 [OSCP PDF Excercise](https://www.notion.so/OSCP-PDF-Excercise-5b8ac36fab1d4ddd9bda9d81dcae8c16)
 
