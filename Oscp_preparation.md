@@ -97,3 +97,6 @@ If you have done 50+ boxes from htb and 50+ boxes from offsec lab you can skip t
 
 [Other resources I used ](https://www.notion.so/Other-resources-I-used-7fd0affac1204b648c2aea6fa39b9da6)
 
+------
+### [You Have Any Doubts Connect To Suraj](https://www.linkedin.com/in/suraj-waghmare-8a548a1b9/) 
+------

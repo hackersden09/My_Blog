@@ -35,7 +35,7 @@ layout: default
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-### 📕 &nbsp;OSCP Write-ups
+### 📕 &nbsp;OSCP Journey
 
 * [Getting Started With the OSCP Prep with Mr.TechGhost ( OSCP )](http://www.hackersden.in/Oscp_preparation)
 
