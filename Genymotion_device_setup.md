@@ -12,7 +12,7 @@ In addition to using “Android Studio” for using “Android Emulator” ( How
 
 2. But before downloading, you need to sign up first (Sign in).genomotion01
 
-             ![Image 1:](https://raw.githubusercontent.com/hackersden09/My_Blog/main/Images/genomotion01.png)
+![Image 1:](https://raw.githubusercontent.com/hackersden09/My_Blog/main/Images/genomotion01.png)
     
 3. When “Activate” via “e-mail”, you can download the program at https://cloud.genymotion.com/page/launchpad/download/
 
@@ -20,11 +20,11 @@ In addition to using “Android Studio” for using “Android Emulator” ( How
 
 5. Please “login” with “Account” that you have applied from the “Genymotion” website.genomotion02
 
-             ![Image 2:](https://raw.githubusercontent.com/hackersden09/My_Blog/main/Images/genomotion02-.png)
+![Image 2:](https://raw.githubusercontent.com/hackersden09/My_Blog/main/Images/genomotion02-.png)
 
 6. Then select “Device” for use.genomotion03
 
-             ![Image 3:](https://raw.githubusercontent.com/hackersden09/My_Blog/main/Images/genomotion03-300x226.png) 
+![Image 3:](https://raw.githubusercontent.com/hackersden09/My_Blog/main/Images/genomotion03-300x226.png) 
 
 7. The program will download the “device”, wait for it to finish.
 
@@ -34,8 +34,8 @@ In addition to using “Android Studio” for using “Android Emulator” ( How
 
 10. Set the SDK (Settings > ADB) according to the folder number 9.genomotion04
 
-             ![Image 4:](https://raw.githubusercontent.com/hackersden09/My_Blog/main/Images/genomotion04-300x214.png)
+![Image 4:](https://raw.githubusercontent.com/hackersden09/My_Blog/main/Images/genomotion04-300x214.png)
 
 11. Test Try “Run”genomotion05
 
-             ![Image 5:](https://raw.githubusercontent.com/hackersden09/My_Blog/main/Images/genomotion05-187x300.png)
+![Image 5:](https://raw.githubusercontent.com/hackersden09/My_Blog/main/Images/genomotion05-187x300.png)
